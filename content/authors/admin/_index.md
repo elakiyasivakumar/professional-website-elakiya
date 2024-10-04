@@ -52,8 +52,8 @@ interests:
   - Innovation, Design and Entrepreneurship
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Master of Science
+    institution: Columbia University
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
@@ -61,8 +61,8 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - area: Bachelor of Engineering
+    institution: SSN Institute of Engineering
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
