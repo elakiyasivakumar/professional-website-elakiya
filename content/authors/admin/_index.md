@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Elakiya Sivakumar
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: 
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Elakiya
-last_name: Sivakumar
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,51 +20,51 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Business Intelligence Engineer
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Primary Aldosteronism Foundation
-    url: https://www.primaryaldosteronism.org/
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/elakiya-sivakumar/
   - icon: at-symbol
-    url: 'mailto:es4033@columbia.edu'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=g2lrAC4AAAAJ&hl=en
-  # - icon: brands/x
-  #   url: https://twitter.com/GetResearchDev
-  # - icon: brands/instagram
-  #   url: https://www.instagram.com/
-  # - icon: brands/github
-  #   url: https://github.com/gcushen
-  # - icon: academicons/orcid
-  #   url: https://orcid.org/
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
-  - Medical Devices Engineering
-  - Innovation, Design and Entrepreneurship
+  - Computational Linguistics
+  - Information Retrieval
 
 education:
-  - area: Master of Science
-    institution: Columbia University
-    date_start: 2022-08-30
-    date_end: 2023-12-31
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Biomedical engineer mixing AI, patient needs and strategy
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Bachelor of Engineering
-    institution: SSN College of Engineering
-    date_start: 2018-09-01
-    date_end: 2022-5-31
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
@@ -72,7 +72,17 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  
+  - area: BSc Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      GPA: 3.4/4.0
+      
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -173,4 +183,4 @@ awards:
 
 ## About Me
 
-I hold a Master’s in Biomedical Engineering and Design from Columbia University, where I graduated magna cum laude. My technical experience lies in developing and applying AI models to solve healthcare challenges. Prior to my role at New Markets Advisors, I worked in medical start-ups, focusing on upstream product development and business strategy, as well as gaining business development experience in the biopharma industry. I’ve also held multiple leadership positions, with my favorite being President of SSN Theatre during my undergrad. Currently, I serve on LifeSci NYC’s Alumni Advisory Board, working to strengthen alumni relations and networking opportunities.
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
