@@ -52,12 +52,12 @@ interests:
   - Innovation, Design and Entrepreneurship
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Master of Science
+    institution: Columbia University
+    date_start: 2022-08-30
+    date_end: 2023-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Biomedical engineer mixing AI, patient needs and strategy
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
