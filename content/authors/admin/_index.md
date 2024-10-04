@@ -52,19 +52,19 @@ interests:
   - Innovation, Design and Entrepreneurship
 
 education:
-  - area: Master of Science
-    institution: Columbia University
-    date_start: 2022-08-01
-    date_end: 2023-12-31
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: Bachelor of Engineering
-    institution: SSN Institute of Engineering
-    date_start: 2018-09-01
-    date_end: 2022-5-01
+  - area: MEng Artificial Intelligence
+    institution: Massachusetts Institute of Technology
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
