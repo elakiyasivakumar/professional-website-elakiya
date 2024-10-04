@@ -183,4 +183,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I hold a Master’s in Biomedical Engineering and Design from Columbia University, where I graduated magna cum laude. My technical experience lies in developing and applying AI models to solve healthcare challenges. Prior to my role at New Markets Advisors, I worked in medical start-ups, focusing on upstream product development and business strategy, as well as gaining business development experience in the biopharma industry. I’ve also held multiple leadership positions, with my favorite being President of SSN Theatre during my undergrad. Currently, I serve on LifeSci NYC’s Alumni Advisory Board, working to strengthen alumni relations and networking opportunities.
