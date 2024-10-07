@@ -57,39 +57,35 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Developed healthtech softwares in close collaboration with physicians to rethink surgeon ergonomics, EHR experience.
   - area: Bachelor of Engineering
     institution: SSN Institute of Engineering
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.8/4.0
+      Developed AI algoritms for classification, analysis and augmentation of medical data
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Associate, Research and Development
+    company_name: Primary Aldosteronism Foundation
     company_url: ''
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Leading research and stakeholder development for PA to understand current    affairs, track research and derive so-whats for the foundation and take next stepst
+  - position: Associate Consultant
+    company_name: New Markets Advisors
     company_url: ''
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed and delivered a franchise integrated product prioritization strategy for a medical diagnostics market leader for the US hospital networks market by analyzing portfolio and conducting market research. 
+			- Developed global commercialization strategy based on clinical and regulatory intelligence, existing portfolio, to develop marketing strategy, product positioning and establish unique marketing strategies.
+			- Analyzed financial implications and market trends to recommend strategies for a $2B product introduction project, enhancing market access and supporting go-to-market strategies.
+			- Spearheaded recruitment efforts by collaborating with global recruitment partners, overseeing the shortlisting of candidates for surveys and interviews, and ensuring alignment with project requirements
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
