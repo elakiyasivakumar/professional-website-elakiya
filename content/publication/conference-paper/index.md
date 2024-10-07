@@ -29,7 +29,9 @@ abstract: Breast cancer is one of the most common causes of death worldwide amon
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus # ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - AI in healthcare, Computer Assisted Diagnostics, Point of care
+  - AI in healthcare
+  - Computer Assisted Diagnostics
+  - Point of care Diagnostics 
 
 # Display this page in the Featured widget?
 featured: true
@@ -45,8 +47,8 @@ url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: ''
-url_video: ''
+# url_source: ''
+# url_video: ''
 
 
 # Custom links (uncomment lines below)
