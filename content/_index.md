@@ -34,7 +34,7 @@ sections:
     content:
       title: '📚 My Research'
       subtitle: ''
-      text: |-
+      text: |
       I love understanding specific needs to user populations before creating detailed user stories and personas to inform product engineering.
     My most notable works 
     design:
