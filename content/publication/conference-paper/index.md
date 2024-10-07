@@ -35,6 +35,21 @@ tags:
 featured: true
 
 # Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+# Custom links (uncomment lines below)
 links:
  - name: Custom Link
    url: https://ieeexplore.ieee.org/abstract/document/9676334
