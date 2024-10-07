@@ -5,8 +5,9 @@ authors:
 - Anjana Anand
 - Sachin Sarate
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Main Author"
+- "Second Author"
+- 'Corresponding Author"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
