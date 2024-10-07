@@ -3,11 +3,10 @@ title: "An example journal article"
 authors:
 - admin
 - Anjana Anand
-- Sachin Sarate
+
 author_notes:
-- "Main Author"
-- "Second Author"
-- "Corresponding Author"
+- "Equal Contribution"
+- "Equal Contribution"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
