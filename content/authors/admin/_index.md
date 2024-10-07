@@ -122,6 +122,19 @@ work:
       - Developed and scaled pipelines based on DFM principles and FDA regulations for class 2 devices for image data acquisition, data storing, preprocessing and analysis using deep learning neural networks. 
       - Improved patient data security by revising front-end patient records frameworks in collaboration with senior researchers.
 
+  - position: Research Associate
+    company_name: SSN Biomedical Engineering Labs
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: 2023-12-01
+    summary: |
+      Responsibilities include:
+      - Designed and implemented Generative Adversarial Networks (AI algorithm) to increase the number of images in a spine image dataset by 159% to boost performance of traditional deep learning models on medical data.
+      - Analyzed several AI algorithms in collaboration with physicians to classify breast cancer data to assist diagnosis at point-of-care and published a research article in an international conference with the findings.
+      - Designed and implemented a 2D image conversion algorithm of time-variant brain signal (EEG) data into images to utilize traditional convolutional neural networks for predicting mental task overload.
+      - Designed robust filtering systems for bio-signal acquisition systems, to reduce signal to noise ratio of the collected data and improve diagnostic accuracy following ISO and FDA guidelines for Class 2 devices.
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
