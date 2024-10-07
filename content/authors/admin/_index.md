@@ -134,68 +134,60 @@ work:
       - Analyzed several AI algorithms in collaboration with physicians to classify breast cancer data to assist diagnosis at point-of-care and published a research article in an international conference with the findings.
       - Designed and implemented a 2D image conversion algorithm of time-variant brain signal (EEG) data into images to utilize traditional convolutional neural networks for predicting mental task overload.
       - Designed robust filtering systems for bio-signal acquisition systems, to reduce signal to noise ratio of the collected data and improve diagnostic accuracy following ISO and FDA guidelines for Class 2 devices.
-
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
+# Customize this block with spaced items, pink color, and no icons.
 skills:
   - name: Technical Skills
+    color: '#ff66b2'  # Pink color for the section
+    color_border: '#ff99cc'  # Border in a lighter pink shade
     items:
       - name: Python
         description: ''
         percent: 40
-        icon: code-bracket
       - name: Data Science
         description: ''
         percent: 40
-        icon: chart-bar
       - name: AI/ML
         description: ''
         percent: 40
-        icon: circle-stack
       - name: Signal Acquisition systems
         description: ''
         percent: 40
-        icon: circle-stack
+  
   - name: Product Skills
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#ff66b2'  # Pink color for the section
+    color_border: '#ff99cc'  # Border in a lighter pink shade
     items:
       - name: Product Requirement Documentation
         description: ''
         percent: 60
-        icon: person-simple-walk
       - name: User stories & User personas
         description: ''
         percent: 40
-        icon: 
       - name: Human Centered Design
         description: ''
         percent: 40
-        icon: 
       - name: User Research
         description: ''
         percent: 40
-        icon:
+
   - name: Strategy Skills
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    color: '#ff66b2'  # Pink color for the section
+    color_border: '#ff99cc'  # Border in a lighter pink shade
     items:
       - name: Market Research
         description: ''
         percent: 40
-        icon: 
       - name: Financial Modelling
         description: ''
         percent: 40
-        icon: 
       - name: Prioritization Strategy
         description: ''
         percent: 40
-        icon: 
       - name: Regulatory Strategy
         description: ''
         percent: 40
-        icon:   
+
 languages:
   - name: Tamil
     percent: 100
