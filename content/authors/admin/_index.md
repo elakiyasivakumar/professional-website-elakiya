@@ -57,13 +57,18 @@ education:
     date_start: 2022-09-01
     date_end: 2023-12-31
     summary: |
-      Developed healthtech softwares in close collaboration with physicians to rethink surgeon ergonomics, EHR experience.
+     - Concentration: AI and Design, Innovation and Entrepreneurship
+     - Leadership: Board Member, NYCEDC/LifeSci NYC Alumni
+     - Vice President, Columbia Graduate Consulting Club 
+
   - area: Bachelor of Engineering
     institution: SSN Institute of Engineering
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      Developed AI algoritms for classification, analysis and augmentation of medical data
+      - Graduated top 5% of class and Awarded Meritorious student award for Academic Excellence
+      - Leadership: Theater Club President, BME Newsletter Editor, SSN MUN Executive Board Director
+
 work:
   - position: Associate, Research and Development
     company_name: Primary Aldosteronism Foundation
