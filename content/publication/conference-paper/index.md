@@ -1,5 +1,5 @@
 ---
-title: 'Analysis of Machine Learning, Deep Learning, and Artificial Neural Network Approaches for Breast Cancer Classification'
+title: "Analysis of Machine Learning, Deep Learning, and Artificial Neural Network Approaches for Breast Cancer Classification"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
