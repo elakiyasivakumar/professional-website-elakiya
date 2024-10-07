@@ -54,8 +54,8 @@ interests:
 education:
   - area: Master of Science
     institution: Columbia University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-09-01
+    date_end: 2023-12-31
     summary: |
       Developed healthtech softwares in close collaboration with physicians to rethink surgeon ergonomics, EHR experience.
   - area: Bachelor of Engineering
