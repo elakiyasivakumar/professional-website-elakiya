@@ -193,10 +193,6 @@ languages:
     percent: 100
   - name: English
     percent: 100
-  - name: Korean
-    percent: 25
-  - name: Spanish
-    percent: 10
 
 # Recognition.
 #   Add/remove as many awards below as you like.
