@@ -21,7 +21,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication_short: In IEEE
 
 abstract: Breast cancer is one of the most common causes of death worldwide among women, with good survival rates if detected early. In our work, we compared supervised, semi- supervised and unsupervised learning on the biomedical dataset, Wisconsin Breast Cancer Dataset, to establish the model with the best performance and hence apply for computer aided diagnosis. The metrics used for the same includes performance of the network as well as the ease of implementation, As a result, we hope to close the gap between technology innovation and its implementation in healthcare.
 
