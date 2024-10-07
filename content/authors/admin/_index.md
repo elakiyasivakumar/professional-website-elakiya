@@ -66,8 +66,8 @@ education:
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      - Graduated top 5% of class and Awarded Meritorious student award for Academic Excellence
-      - Leadership: Theater Club President, BME Newsletter Editor, SSN MUN Executive Board Director
+    - Graduated top 5% of class and Awarded Meritorious student award for Academic Excellence
+    - Leadership: Theater Club President, BME Newsletter Editor, SSN MUN Executive Board Director
 
 work:
   - position: Associate, Research and Development
