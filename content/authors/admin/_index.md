@@ -82,10 +82,10 @@ work:
     date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Developed and delivered a franchise integrated product prioritization strategy for a medical diagnostics market leader for the US hospital networks market by analyzing portfolio and conducting market research. 
-			- Developed global commercialization strategy based on clinical and regulatory intelligence, existing portfolio, to develop marketing strategy, product positioning and establish unique marketing strategies.
-			- Analyzed financial implications and market trends to recommend strategies for a $2B product introduction project, enhancing market access and supporting go-to-market strategies.
-			- Spearheaded recruitment efforts by collaborating with global recruitment partners, overseeing the shortlisting of candidates for surveys and interviews, and ensuring alignment with project requirements
+      - Developed and delivered a franchise integrated product prioritization strategy for a medical diagnostics market leader for the US hospital networks market by analyzing portfolio and conducting market research.
+      - Developed global commercialization strategy based on clinical and regulatory intelligence, existing portfolio, to develop marketing strategy, product positioning and establish unique marketing strategies.
+      - Analyzed financial implications and market trends to recommend strategies for a $2B product introduction project, enhancing market access and supporting go-to-market strategies.
+      - Spearheaded recruitment efforts by collaborating with global recruitment partners, overseeing the shortlisting of candidates for surveys and interviews, and ensuring alignment with project requirements
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
