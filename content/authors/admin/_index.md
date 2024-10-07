@@ -183,24 +183,25 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+recognition:
   - title: Enterpreneurship Award
     url:
-    date: 2023-08-01
+    date: '2023-08-01'
     awarder: Columbia Enterprenuership 
     icon: 
     summary: |
-    - Awarded to 3 out of 30,000 students for boosting entrepreneurship within the Columbia University community.
-    - Led strategic development for 8 early-stage tech startups, prioritizing growth plans and resource allocation, resulting in accelerated growth and enhanced critical networks.
-Managed resources and schedules for startup teams, ensuring timely project completion and efficient use of infrastructure, significantly improving operational efficiency.
+      - Awarded to 3 out of 30,000 students for boosting entrepreneurship within the Columbia University community.
+      - Led strategic development for 8 early-stage tech startups, prioritizing growth plans and resource allocation, resulting in accelerated growth and enhanced critical networks.
+      - Managed resources and schedules for startup teams, ensuring timely project completion and efficient use of infrastructure, significantly improving operational efficiency.
+      
   - title: LifeSci NYC Alumni Board
     url: 
-    date: 2023-08-01
+    date: '2023-08-01'
     awarder: 
     icon: 
     summary: |
-    - Selected into the alumni advisory board for outstanding leadership and contributions to Life Sciences NYC.
-    - Led Alumni relations and event planning.
+      - Selected into the alumni advisory board for outstanding leadership and contributions to Life Sciences NYC.
+      - Led Alumni relations and event planning.
 ---
 
 ## About Me
