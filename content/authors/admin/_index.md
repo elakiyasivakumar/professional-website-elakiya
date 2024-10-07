@@ -142,11 +142,11 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 40
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 40
         icon: chart-bar
       - name: AI/ML
         description: ''
@@ -166,15 +166,15 @@ skills:
         icon: person-simple-walk
       - name: User stories & User personas
         description: ''
-        percent: 100
+        percent: 40
         icon: 
       - name: Human Centered Design
         description: ''
-        percent: 80
+        percent: 40
         icon: 
       - name: User Research
         description: ''
-        percent: 80
+        percent: 40
         icon:
   - name: Strategy Skills
     color: '#eeac02'
@@ -182,19 +182,19 @@ skills:
     items:
       - name: Market Research
         description: ''
-        percent: 60
+        percent: 40
         icon: 
       - name: Financial Modelling
         description: ''
-        percent: 100
+        percent: 40
         icon: 
       - name: Prioritization Strategy
         description: ''
-        percent: 80
+        percent: 40
         icon: 
       - name: Regulatory Strategy
         description: ''
-        percent: 80
+        percent: 40
         icon:   
 languages:
   - name: Tamil
