@@ -15,7 +15,7 @@ doi: 'https://ieeexplore.ieee.org/abstract/document/9676334/authors'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['2'] # Use '2' for journal articles, '1' for conference papers, etc.
+publication_types: ['1'] # Use '2' for journal articles, '1' for conference papers, etc.
 
 # Publication name and optional abbreviated publication name.
 publication: "In Hugo Blox Builder Conference"
@@ -42,10 +42,10 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-projects: []
+# projects: []
 
 # Slides (optional).
-slides: ""
+# slides: ""
 ---
 
 <!-- Temporarily commenting out the Hugo shortcodes to isolate the issue -->
