@@ -7,7 +7,7 @@ authors:
 author_notes:
 - "Main Author"
 - "Second Author"
-- 'Corresponding Author"
+- "Corresponding Author"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
