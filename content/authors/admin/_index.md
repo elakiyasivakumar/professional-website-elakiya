@@ -156,23 +156,46 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Product skills
+  - name: Product Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Product Specification documentation
+      - name: Product Requirement Documentation
         description: ''
         percent: 60
         icon: person-simple-walk
       - name: User stories & User personas
         description: ''
         percent: 100
-        icon: Product franchise prioritization
-      - name: Photography
+        icon: 
+      - name: Human Centered Design
         description: ''
         percent: 80
-        icon: camera
-
+        icon: 
+      - name: User Research
+        description: ''
+        percent: 80
+        icon:
+  - name: Strategy Skills
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Market Research
+        description: ''
+        percent: 60
+        icon: 
+      - name: Financial Modelling
+        description: ''
+        percent: 100
+        icon: 
+      - name: Prioritization Strategy
+        description: ''
+        percent: 80
+        icon: 
+      - name: Regulatory Strategy
+        description: ''
+        percent: 80
+        icon:   
 languages:
   - name: Tamil
     percent: 100
