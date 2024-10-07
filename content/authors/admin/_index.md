@@ -78,8 +78,8 @@ work:
     company_name: New Markets Advisors
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-01-01
+    date_end: 2024-07-04
     summary: |
       Responsibilities include:
       - Developed and delivered a franchise integrated product prioritization strategy for a medical diagnostics market leader for the US hospital networks market by analyzing portfolio and conducting market research.
