@@ -186,7 +186,7 @@ languages:
 awards:
   - title: Enterpreneurship Award
     url:
-    date: '2023-08-01'
+    date: 2023-08-01
     awarder: Columbia Enterprenuership 
     icon: 
     summary: |
@@ -195,7 +195,7 @@ awards:
 Managed resources and schedules for startup teams, ensuring timely project completion and efficient use of infrastructure, significantly improving operational efficiency.
   - title: LifeSci NYC Alumni Board
     url: 
-    date: '2023-08-01'
+    date: 2023-08-01
     awarder: 
     icon: 
     summary: |
