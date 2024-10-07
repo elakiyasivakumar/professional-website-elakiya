@@ -148,22 +148,26 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: AI/ML
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+      - name: Signal Acquisition systems
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Product skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Product Specification documentation
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: User stories & User personas
         description: ''
         percent: 100
-        icon: cat
+        icon: Product franchise prioritization
       - name: Photography
         description: ''
         percent: 80
