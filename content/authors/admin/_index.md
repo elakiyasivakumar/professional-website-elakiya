@@ -86,7 +86,7 @@ work:
       - Developed global commercialization strategy based on clinical and regulatory intelligence, existing portfolio, to develop marketing strategy, product positioning and establish unique marketing strategies.
       - Analyzed financial implications and market trends to recommend strategies for a $2B product introduction project, enhancing market access and supporting go-to-market strategies.
       - Spearheaded recruitment efforts by collaborating with global recruitment partners, overseeing the shortlisting of candidates for surveys and interviews, and ensuring alignment with project requirements
-position: Product Development Engineer
+  - position: Product Development Engineer
     company_name: InSim Surgical
     company_url: ''
     company_logo: ''
@@ -99,7 +99,7 @@ position: Product Development Engineer
       - Led creation of user proiles and user stories and translated them into product specifications to lead product design and engineering.
       - Led a cross-functional team to build software products with 80% user compliance based on DFM principles.
       - Led market entry opportunities for a $1.5B market, performing competitive landscape analysis and developing business models based on supply, sales and marketing methods.
-position: Business Analyst (Data Engineer)
+  - position: Business Analyst (Data Engineer)
     company_name: Protara Therapeutics
     company_url: ''
     company_logo: ''
@@ -110,7 +110,7 @@ position: Business Analyst (Data Engineer)
        - Developed a data-driven analytics platform to identify new drug assets, utilizing Python and SQL to build data pipelines, integrate datasets, and automate workflows for over 500 companies.
        - Developed go-to-market strategies for a $23B rare diseases asset’s market entry, incorporating physician insights to ensure the solutions met current clinical needs and regulatory standards.
 
-position: Research Associate
+  - position: Research Associate
     company_name: Sia Lab
     company_url: ''
     company_logo: ''
