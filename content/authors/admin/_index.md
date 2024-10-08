@@ -204,7 +204,7 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
-Recognition:
+recognition:
   - title: Enterpreneurship Award
     url:
     date: '2023-08-01'
