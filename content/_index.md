@@ -30,12 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        Elakiya to update My Research
     design:
       columns: '1'
   - block: collection
