@@ -1,9 +1,9 @@
 ---
 title: "Analysis of Machine Learning, Deep Learning, and Artificial Neural Network Approaches for Breast Cancer Classification"
 authors:
-- admin
-- Anjana Anand
-- Sanchin Sarate
+  - admin
+  - Anjana Anand
+  - Sanchin Sarate
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
