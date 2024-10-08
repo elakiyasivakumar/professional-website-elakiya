@@ -34,8 +34,8 @@ sections:
       columns: '1'
   - block: collection
     id: experience
-    content:
-      title: resume-experience
+    content: resume-experience
+      title: Experience
   - block: collection
     id: papers
     content:
