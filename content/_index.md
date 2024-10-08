@@ -39,6 +39,10 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: experience
+    content:
+      title: Experience
+  - block: collection
     id: papers
     content:
       title: Featured Publications
