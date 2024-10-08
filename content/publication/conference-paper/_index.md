@@ -5,8 +5,9 @@ authors:
 - Anjana A
 - Sachin S
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "First Author"
+- "Second Author"
+- "Corresponding Author"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
