@@ -8,7 +8,6 @@ tags:
   - Preventitive Care
   - Healthcare workers
 image:
-  placement: 1
   filename: Pitch Deck.png
 ---
 
