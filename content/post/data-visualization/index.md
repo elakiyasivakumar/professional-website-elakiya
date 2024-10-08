@@ -7,6 +7,8 @@ tags:
   - Surgeon Ergonomics 
   - Preventitive Care
   - Healthcare workers
+
+image: featured.png
 ---
 
 # Hospitals Lose $15M every year because surgeons develop extreme musculoskeletal pain. 
