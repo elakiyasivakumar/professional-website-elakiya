@@ -1,8 +1,9 @@
 ---
-title: "An example journal article"
+title: "Analysis of Machine Learning, Deep Learning, and Artificial Neural Network Approaches for Breast Cancer Classification"
 authors:
 - admin
-- Robert Ford
+- Anjana A
+- Sachin S
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
