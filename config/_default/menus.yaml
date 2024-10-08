@@ -19,7 +19,7 @@ main:
   - name: Projects
     url: projects/
     weight: 30
-  - name: Daydreams
+  - name: Day dreams
     url: /#news
     weight: 13
   # - name: Teaching
