@@ -35,7 +35,7 @@ sections:
   - block: collection
     id: experience
     content:
-      title: Experience
+      title: resume-experience
   - block: collection
     id: papers
     content:
