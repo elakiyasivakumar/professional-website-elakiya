@@ -206,20 +206,16 @@ languages:
 
 recognition:
   - name: Enterpreneurship Award
-    url:
     date: '2023-08-01'
-    awarder: Columbia Enterprenuership 
-    icon: 
+    awarder: Columbia Enterprenuership  
     summary: |
       - Awarded to 3 out of 30,000 students for boosting entrepreneurship within the Columbia University community.
       - Led strategic development for 8 early-stage tech startups, prioritizing growth plans and resource allocation, resulting in accelerated growth and enhanced critical networks.
       - Managed resources and schedules for startup teams, ensuring timely project completion and efficient use of infrastructure, significantly improving operational efficiency.
       
   - name: LifeSci NYC Alumni Board
-    url: 
     date: '2023-08-01'
-    awarder: 
-    icon: 
+    awarder: NYC Economic Development
     summary: |
       - Selected into the alumni advisory board for outstanding leadership and contributions to Life Sciences NYC.
       - Led Alumni relations and event planning.
