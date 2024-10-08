@@ -205,7 +205,7 @@ languages:
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 
 recognition:
-  - title: Enterpreneurship Award
+  - name: Enterpreneurship Award
     url:
     date: '2023-08-01'
     awarder: Columbia Enterprenuership 
@@ -215,7 +215,7 @@ recognition:
       - Led strategic development for 8 early-stage tech startups, prioritizing growth plans and resource allocation, resulting in accelerated growth and enhanced critical networks.
       - Managed resources and schedules for startup teams, ensuring timely project completion and efficient use of infrastructure, significantly improving operational efficiency.
       
-  - title: LifeSci NYC Alumni Board
+  - name: LifeSci NYC Alumni Board
     url: 
     date: '2023-08-01'
     awarder: 
