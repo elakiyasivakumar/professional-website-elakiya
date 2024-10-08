@@ -7,6 +7,7 @@ tags:
   - Surgeon Ergonomics 
   - Preventitive Care
   - Healthcare workers
+image: 
 ---
 
 # Hospitals Lose $15M every year because surgeons develop extreme musculoskeletal pain. 
@@ -27,11 +28,14 @@ I led the stakeholder interviews for the team and defaulted into product design 
 
 ## Key takeaways: 
 
-- The surgical population is a unique user population to design for. They are busy, they have too much paper work, they simply cannot “learn” more.
+- The surgical population is a unique user population to design for. They are busy, they have too much paper work, they simply cannot “learn” more and prioritizw e.
 - surgeon’s mindset: instruments are for patient outcomes and not for physician comfort - which means anything we design, like a operating table that can adjust its height or a new light etc may have a harder time getting into the OR.
 - We wanted to give the surgeons the power - we wanted to show them what they go through in a quantifiable manner and they do what they think is necessary to maintain ergonomics, this could be “learning” and “practicing” with the right posture or this could be doing counteractive stretches after surgeries. We prioritize visual feedback!
 
 ## In the Market: 
 - [Sword Health](https://swordhealth.com/)
 - [Tumeke](https://www.tumeke.io/ad-landing-pages/ergonomics-assessment?utm_term=ergonomic%20assessment%20software&utm_campaign=Relevant+keywords&utm_source=adwords&utm_medium=ppc&hsa_acc=3873812980&hsa_cam=14634553617&hsa_grp=125490594645&hsa_ad=548803288951&hsa_src=g&hsa_tgt=kwd-338185960977&hsa_kw=ergonomic%20assessment%20software&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwsJO4BhDoARIsADDv4vBANv8JDApSlmR4YIj5ZuUfoezSppUS23AEUg_cFtFaD-b154R_4qQaAgOdEALw_wcB)
-  
+
+### Download the Pitch Deck here 
+--- 
+
