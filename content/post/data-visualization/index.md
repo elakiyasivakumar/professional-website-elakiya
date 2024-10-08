@@ -38,4 +38,6 @@ I led the stakeholder interviews for the team and defaulted into product design 
 
 ### Download the Pitch Deck here 
 --- 
+url_slides: https://docs.google.com/presentation/d/1t7tQuXXiGr-3Ydg997crOZb40n4zBHP9JjTNfLiEO54/edit?usp=sharing
+
 
