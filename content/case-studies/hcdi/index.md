@@ -24,3 +24,10 @@ There is currently no product for mothers to carry and transport their babies sa
 
 - There are currently no products dedicated to keeping infants safe in floods. 
   
+---
+
+## License
+
+Copyright 2016-present [George Cushen](https://georgecushen.com).
+
+Released under the [MIT](https://github.com/HugoBlox/hugo-blox-builder/blob/main/LICENSE.md) license.
