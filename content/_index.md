@@ -32,17 +32,10 @@ sections:
           parallax: false
     design:
       columns: '1'
-  - block: resume-experience
+  - block: markdown
     id: highlighted-experience
     content:
       title: Highlighted Experience
-      text: |
-        {{<partial "highlighted-experience" . >}}
-    params:
-    #Filtering for only highlighred experience
-    filters:
-      folders:
-        - experience
       highlight: true
       count: 2
   - block: collection
