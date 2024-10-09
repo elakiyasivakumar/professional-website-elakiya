@@ -42,9 +42,9 @@ sections:
     #Filtering for only highlighred experience
     filters:
       folders:
-        - resume-experience
+        - experience
       highlight: true
-      count: 3
+      count: 2
   - block: collection
     id: papers
     content:
