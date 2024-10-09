@@ -46,8 +46,19 @@ sections:
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
+    id: papers
+    content:
+      title: Case Studies
+      filters:
+        folders:
+          - case-studies
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 1
+  # - block: collection
     content:
       title: Recent Publications
       text: ""
@@ -57,7 +68,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
- - block: collection
+# - block: collection
     id: news
     content:
       title: Case Studies
