@@ -62,7 +62,7 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
+  - block: case studies
     id: case studies
     content:
       title: Case Studies
