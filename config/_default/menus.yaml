@@ -20,7 +20,7 @@ main:
     url: projects/
     weight: 30
   - name: Case-Studies
-    url: /#case-studies
+    url: /case-studies
     weight: 13
   # - name: Teaching
   #   url: teaching/
