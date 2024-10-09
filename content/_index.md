@@ -32,7 +32,7 @@ sections:
           parallax: false
     design:
       columns: '1'
-  - block: markdown
+  - block: resume-experience
     id: highlighted-experience
     content:
       title: Highlighted Experience
