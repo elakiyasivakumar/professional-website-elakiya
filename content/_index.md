@@ -34,7 +34,10 @@ sections:
       columns: '1'
   - block: resume-experience
     id: experience
-    content: 
+    content:
+    design:
+      view: article-grid
+      columns: 2 
       title: Experience
   - block: collection
     id: papers
