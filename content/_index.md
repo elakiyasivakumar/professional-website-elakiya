@@ -60,12 +60,10 @@ sections:
  - block: collection
     id: case studies
     content:
-       folder:
-         case-studies
-   
       title: Case Studies
-      subtitle: ''
-      text: ''
+      filters:
+         folders:
+             - case-studies
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
