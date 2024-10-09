@@ -38,7 +38,7 @@ sections:
       title: Highlighted Experience
       filters:
         folders:
-          - authors
+          - admin
       highlight: true
       count: 2
   - block: collection
