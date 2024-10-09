@@ -33,14 +33,9 @@ sections:
     design:
       columns: '1'
   - block: resume-experience
-    id: highlighted-experience
-    content:
-      title: Highlighted Experience
-      filters:
-        folders:
-          - admin
-      highlight: true
-      count: 2
+    id: experience
+    content: 
+      title: Experience
   - block: collection
     id: papers
     content:
@@ -62,17 +57,22 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: news
-    id: case studies
-    content:
-      title: Case Studies
-      filters:
-         folders:
-             case-studies
-    
 #  - block: collection
- 
-   
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+ # - block: collection
+    id: news
+    content:
+      title: Recent News
+      subtitle: ''
+      text: ''
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
