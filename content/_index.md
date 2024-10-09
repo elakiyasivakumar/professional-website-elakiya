@@ -62,23 +62,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: case studies
+  - block: case-studies
     id: case studies
     content:
       title: Case Studies
       filters:
          folders:
              case-studies
+    
 #  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
  
    
       # Page type to display. E.g. post, talk, publication...
