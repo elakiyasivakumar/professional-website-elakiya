@@ -1,4 +1,4 @@
 ---
-title: Blog
+title: Case Studies
 view: article-grid
 ---
