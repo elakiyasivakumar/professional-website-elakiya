@@ -35,10 +35,14 @@ sections:
   - block: resume-experience
     id: experience
     content:
-    design:
-      view: article-grid
-      columns: 2 
-      title: Experience
+      title: Highlighted Experience
+    params:
+    #Filtering for only highlighred experience
+    filters:
+      folders:
+        - resume-experience
+      highlight: true
+      count: 3
   - block: collection
     id: papers
     content:
