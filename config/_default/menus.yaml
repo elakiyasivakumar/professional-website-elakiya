@@ -7,10 +7,13 @@ main:
   - name: Bio
     url: /
     weight: 10
-    color: primary
+    params:
+      color: primary
   - name: Papers
     url: /#papers
     weight: 11
+    params:
+      color: secondary
   # - name: Talks
   #   url: /#talks
   #   weight: 12
