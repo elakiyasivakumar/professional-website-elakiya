@@ -7,6 +7,8 @@ authors:
 tags:
   - Human Centered Design 
   - Design for Mothers
+image:
+  - turtlewrap.png
 ---
 
 ## Our Story
