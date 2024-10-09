@@ -93,10 +93,9 @@ work:
       - Spearheaded recruitment efforts by collaborating with global recruitment partners, overseeing the shortlisting of candidates for surveys and interviews, and ensuring alignment with project requirements
   - position: Product Development Engineer
     company_name: InSim Surgical
-    company_url: ''
-    company_logo: ''
     date_start: 2022-09-01
     date_end: 2023-12-01
+    highlight: true
     summary: |
       Responsibilities include:
       - Developed an AI-driven posture training tool for surgeons, achieving 80% user compliance, following ISO and FDA guidelines for Class 2 devices, reducing $15M in losses from musculoskeletal disorders in surgeons.
