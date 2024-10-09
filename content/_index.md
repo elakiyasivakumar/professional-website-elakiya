@@ -58,7 +58,7 @@ sections:
     design:
       view: citation
  - block: collection
-    id: case studies
+    id: news
     content:
       title: Case Studies
       filters:
