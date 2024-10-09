@@ -33,9 +33,11 @@ sections:
     design:
       columns: '1'
   - block: resume-experience
-    id: experience
+    id: highlighted-experience
     content:
       title: Highlighted Experience
+      text: |
+        {{<partial "highlighted-experience" . >}}
     params:
     #Filtering for only highlighred experience
     filters:
