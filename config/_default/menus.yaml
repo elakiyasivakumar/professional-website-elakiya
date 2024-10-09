@@ -9,7 +9,7 @@ main:
     weight: 10
     params:
       color: secondary 
-      background: background
+      background: "#fcfcfb"
   - name: Papers
     url: /#papers
     weight: 11
