@@ -38,7 +38,7 @@ sections:
       title: Highlighted Experience
       filters:
         folders:
-          - resume-experience
+          - authors
       highlight: true
       count: 2
   - block: collection
