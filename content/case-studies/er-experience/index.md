@@ -10,6 +10,8 @@ tags:
   - Design and Innovation
   - Digitalization
   - Healthcare
+image:
+  filename: title slide.png
 ---
 #### The average waiting time in an ER in NYC is 201 minutes! 
 
