@@ -5,9 +5,9 @@ authors:
   - InSIm Surgical
 date: '2023-12-01'
 tags:
-  - Surgeon Ergonomics 
-  - Preventitive Care
-  - Healthcare workers
+  - Design & Innovation
+  - Surgical Ergonomics
+  - Physician Burnout
 image:
   filename: Pitch Deck.png
 ---
