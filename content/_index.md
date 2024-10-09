@@ -72,7 +72,7 @@ sections:
     design:
       view: article-grid
       columns: 1
- - block: collection
+   - block: collection
     id: case studies
     content:
       title: Case Studies
