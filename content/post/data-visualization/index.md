@@ -3,6 +3,7 @@ title: Surgical Ergonomics
 authors:
   - admin
   - InSIm Surgical
+date: '2023-12-01'
 tags:
   - Surgeon Ergonomics 
   - Preventitive Care
