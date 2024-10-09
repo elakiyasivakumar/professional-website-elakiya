@@ -46,6 +46,14 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
+#New Colors 
+colors:
+  primary: "#604f71"    # Deep purple
+  secondary: "#807094"  # Lighter purple
+  text: "#604f71"       # Deep purple for text
+  background: "#fcfcfb" # Off-white
+  accent1: "#ef98a7"    # Soft pink
+  accent2: "#f7bea9"    # Soft peach
 
 # Localization
 locale:
