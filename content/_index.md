@@ -57,20 +57,13 @@ sections:
         exclude_featured: false
     design:
       view: citation
-#  - block: collection
-    id: talks
+ - block: collection
+    id: case studies
     content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
-   - block: collection
-    id: news
-    content:
-      title: Recent News
+       folder:
+         case-studies
+   
+      title: Case Studies
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -96,6 +89,17 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+#  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
+  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
