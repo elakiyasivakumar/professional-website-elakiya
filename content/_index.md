@@ -68,15 +68,15 @@ sections:
         exclude_featured: false
     design:
       view: citation
-# - block: collection
-    id: news
+ - block: collection
+    id: case-studies
     content:
       title: Case Studies
       filters:
          folders:
              - case-studies
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: case-studies
       # Choose how many pages you would like to display (0 = all pages)
       count: 2
       # Filter on criteria
