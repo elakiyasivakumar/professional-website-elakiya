@@ -8,7 +8,7 @@ tags:
   - Human Centered Design 
   - Design for Mothers
 image:
-  - turtlewrap.png
+  - filename: turtlewrap.png
 ---
 
 ## Our Story
