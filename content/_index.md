@@ -48,7 +48,7 @@ sections:
       view: article-grid
       columns: 1
   - block: collection
-    id: papers
+    id: case-studies
     content:
       title: Case Studies
       filters:
