@@ -13,7 +13,7 @@ tags:
 ---
 #### The average waiting time in an ER in NYC is 201 minutes! 
 <div class="iframe-container" style='overflow: hidden; position: relative; width: 100%; padding-top: 70%;'>
-<iframe style="border: 0.3px solid rgba(0, 0, 0, 0.1);" width="200%" height="6000" src="https://embed.figma.com/proto/m7rGtdYKAm0eVU5MTjbzUL/Team-5%3A-quickER?node-id=728-382&embed-host=share" allowfullscreen></iframe>
+<iframe style="border: 0.3px solid rgba(0, 0, 0, 0.1);" width="100%" height="100%" src="https://embed.figma.com/proto/m7rGtdYKAm0eVU5MTjbzUL/Team-5%3A-quickER?node-id=728-382&embed-host=share" allowfullscreen></iframe>
 
 
 
