@@ -36,6 +36,9 @@ sections:
     id: highlighted-experience
     content:
       title: Highlighted Experience
+      filters:
+        folders:
+          - resume-experience
       highlight: true
       count: 2
   - block: collection
