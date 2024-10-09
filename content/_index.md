@@ -62,6 +62,13 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: case studies
+    content:
+      title: Case Studies
+      filters:
+         folders:
+             case-studies
 #  - block: collection
     id: talks
     content:
@@ -72,13 +79,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-   - block: collection
-    id: case studies
-    content:
-      title: Case Studies
-      filters:
-         folders:
-             case-studies
+ 
    
       # Page type to display. E.g. post, talk, publication...
       page_type: post
