@@ -68,7 +68,7 @@ sections:
   #      exclude_featured: false
   #  design:
   #    view: citation
-  - block: case-studies
+ # - block: case-studies
     id: case-studies
     content:
       title: Case Studies
