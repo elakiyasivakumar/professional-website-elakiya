@@ -47,11 +47,11 @@ Mothers who live in flood-prone areas that don’t want/need to evacuate but sti
 When starting the deisgn process as engineers, we went through vigorous ideation and we came up with a "pet carrier" version of baby transporter with floatation, gps, temperature control and would be adjusted to strollers. As cool as it sounded, mother's hated the idea of babies in a bag. We realized we missed the emotional component to the matter - mother's needed to be able to see and feel their child especially during a disaster.
 ![TurtleWrap Product](iterative-design.jpg)
 
-We drew inspiration closer to our own cultures - we were a group of Hispanic, Indian and Chinese engineers solving for mothers. We realized many moms in our cultures used a makeshift cloth to wrap the baby to their chests while working. 
+We drew inspiration closer to our own cultures - we were a group of Hispanic, Indian and Chinese engineers solving for mothers. We realized many moms in our cultures used a makeshift cloth to wrap the baby to their chests while doing chores. 
 
 This was a breakthrough in our design, which made the product cheaper (because it was a wrap) and more user intuitive. Moreover, it fit into mom's everyday life!
 
-!![TurtleWrap Product](modes.png)
+![TurtleWrap Product](modes.png)
 ![TurtleWrap Product](productdempjpg.jpg)
 
 The idea then was to make it "weather proof". 
