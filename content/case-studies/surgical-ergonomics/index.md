@@ -43,8 +43,8 @@ I led the stakeholder interviews for the team and defaulted into product design 
 
 We created and scaled our solution and I ran a survey of user-friendliness of the product to be iterative-ly useful to customes. Here are some key findings: 
 
-![InSim Surgical](is-bar1)
-![InSim Surgical](is-bar2)
+![InSim Surgical](is-bar1.png)
+![InSim Surgical](is-bar2.png)
 
 
 
