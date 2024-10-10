@@ -38,24 +38,15 @@ I led the stakeholder interviews for the team and defaulted into product design 
 
 ## Validation: 
 
-```yaml 
-charts: 
-  - type: bar
-    title: Reporting and Notifications Requests for Ergonomics Tool
-    data:
-      - label: Chart generation
-        value: 23
-        color: "#ef98a7"
-      - label: App led notification
-        value: 33
-        color: "#604f71"
-      - label: Text/Email led notifications
-        value: 13
-        color: "#f7bea9"
-      - label: No notification
-        value: 2
-        color: "#807094"
-    total_respondents: 80
+```mermaid
+bar
+  bar
+  title Reporting and Notifications Requests for Ergonomics Tool
+  "Chart generation": 23
+  "App led notification": 33
+  "Text/Email led notifications": 13
+  "No notification": 2
+'''
 
 ### Download the Pitch Deck [here](https://docs.google.com/presentation/d/1t7tQuXXiGr-3Ydg997crOZb40n4zBHP9JjTNfLiEO54/edit?usp=sharing)!
 --- 
