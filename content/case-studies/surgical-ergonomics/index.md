@@ -41,14 +41,10 @@ I led the stakeholder interviews for the team and defaulted into product design 
 
 ## Validation: 
 
-```mermaid
-bar
-  bar
-  title Reporting and Notifications Requests for Ergonomics Tool
-  "Chart generation": 23
-  "App led notification": 33
-  "Text/Email led notifications": 13
-  "No notification": 2
+We created and scaled our solution and I ran a survey of user-friendliness of the product to be iterative-ly useful to customes. Here are some key findings: 
+
+![InSim Surgical](is-bar1)
+![InSim Surgical](is-bar2)
 
 
 
