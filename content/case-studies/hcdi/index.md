@@ -26,7 +26,7 @@ There is currently no product for mothers to carry and transport their babies sa
 
 ## Who are the Stakeholders? 
 The stakeholders include the local government and mothers (and some grandmothers)!
-We interviewed 8 mothers who live in flood prone areas. 
+We interviewed 8 mothers who live in flood or disaster prone areas. 
 Their feedback highlighted that even though moms care about their own comfort and safety, it was always the safety and comfort of their baby was of the highest importance.
 
 Potential customers:
@@ -44,8 +44,23 @@ Mothers who live in flood-prone areas that don’t want/need to evacuate but sti
 
 
 ## Iterative Design 
-  
-![TurtleWrap Product](product-demojpg.jpg)
+When starting the deisgn process as engineers, we went through vigorous ideation and we came up with a "pet carrier" version of baby transporter with floatation, gps, temperature control and would be adjusted to strollers. As cool as it sounded, mother's hated the idea of babies in a bag. We realized we missed the emotional component to the matter - mother's needed to be able to see and feel their child especially during a disaster.
+![TurtleWrap Product](iterative-design.jpg)
+
+We drew inspiration closer to our own cultures - we were a group of Hispanic, Indian and Chinese engineers solving for mothers. We realized many moms in our cultures used a makeshift cloth to wrap the baby to their chests while working. 
+
+This was a breakthrough in our design, which made the product cheaper (because it was a wrap) and more user intuitive. Moreover, it fit into mom's everyday life!
+
+!![TurtleWrap Product](modes.png)
+![TurtleWrap Product](productdempjpg.jpg)
+
+The idea then was to make it "weather proof". 
+
+I want to acknowledge that for the "weather-proofing" we were able to be incredibly creative while working with the constraints of budgets and "what can we really achieve in a prototype". This was a great lesson in un-learning the urge to over-engineer without understanding audience but utilizing the great technology we have now to solve problems. 
+
+## How do we compare to our competition? 
+![TurtleWrap Product](tw_competetion.jpg)
+
 
 
 ## License
