@@ -45,12 +45,7 @@ Mothers who live in flood-prone areas that don’t want/need to evacuate but sti
 
 ## Iterative Design 
   
----
-image: 
-  filename: product-demojpg.jpg
-
----
-
+![TurtleWrap Product](product-demojpg.jpg)
 
 
 ## License
