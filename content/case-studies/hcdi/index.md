@@ -8,7 +8,7 @@ tags:
   - Human Centered Design 
   - Design for Mothers
 image:
-  filename: turtlewrap.png
+  filename: product-demojpg.jpg
 ---
 
 ## Our Story
@@ -47,6 +47,10 @@ Mothers who live in flood-prone areas that don’t want/need to evacuate but sti
   
 ---
 image: 
+  filename: product-demojpg.jpg
+
+---
+
 
 
 ## License
