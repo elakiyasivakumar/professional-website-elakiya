@@ -36,6 +36,9 @@ I led the stakeholder interviews for the team and defaulted into product design 
 - [Sword Health](https://swordhealth.com/)
 - [Tumeke](https://www.tumeke.io/ad-landing-pages/ergonomics-assessment?utm_term=ergonomic%20assessment%20software&utm_campaign=Relevant+keywords&utm_source=adwords&utm_medium=ppc&hsa_acc=3873812980&hsa_cam=14634553617&hsa_grp=125490594645&hsa_ad=548803288951&hsa_src=g&hsa_tgt=kwd-338185960977&hsa_kw=ergonomic%20assessment%20software&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwsJO4BhDoARIsADDv4vBANv8JDApSlmR4YIj5ZuUfoezSppUS23AEUg_cFtFaD-b154R_4qQaAgOdEALw_wcB)
 
+### Download the Pitch Deck [here](https://docs.google.com/presentation/d/1t7tQuXXiGr-3Ydg997crOZb40n4zBHP9JjTNfLiEO54/edit?usp=sharing)!
+--- 
+
 ## Validation: 
 
 ```mermaid
@@ -46,9 +49,7 @@ bar
   "App led notification": 33
   "Text/Email led notifications": 13
   "No notification": 2
-'''
 
-### Download the Pitch Deck [here](https://docs.google.com/presentation/d/1t7tQuXXiGr-3Ydg997crOZb40n4zBHP9JjTNfLiEO54/edit?usp=sharing)!
---- 
+
 
 
