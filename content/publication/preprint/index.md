@@ -7,8 +7,6 @@ authors:
 date: "2021-12-11T00:00:00Z"
 doi: ""
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2021-12-10T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,17 +29,16 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Full Article Link
   url: 'http://example.org](https://ieeexplore.ieee.org/abstract/document/9676334'
-# url_pdf:
+# url_pdf: 
 # url_code: 'https://github.com/elakiya04/machine-learning-model-analysis-using-breast-cancer-datatset'
 
-# Featured image
+#Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   filename: output(2).png
-  focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
