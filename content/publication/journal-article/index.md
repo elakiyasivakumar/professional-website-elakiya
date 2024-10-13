@@ -7,16 +7,16 @@ authors:
 author_notes:
 - "First Author"
 - "Second Author"
-date: "2015-09-01T00:00:00Z"
+date: "2021-10-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["poster-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: "IEEE Brain, Body, Mind"
