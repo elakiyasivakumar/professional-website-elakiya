@@ -16,8 +16,8 @@ publishDate: "2021-12-10T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "IEEE"
-publication_short: ""
+publication: "IEEE 10th International Conference on System Modeling & Advancement in Research Trends (SMART-2021)"
+publication_short: "SMART Conference - IEEE"
 
 abstract: Breast cancer is one of the most common causes of death worldwide among women, with good survival rates if detected early. In our work, we compared supervised, semi- supervised and unsupervised learning on the biomedical dataset, Wisconsin Breast Cancer Dataset, to establish the model with the best performance and hence apply for computer aided diagnosis. The metrics used for the same includes performance of the network as well as the ease of implementation, As a result, we hope to close the gap between technology innovation and its implementation in healthcare
 
@@ -33,19 +33,13 @@ featured: true
 links:
 - name: Custom Link
   url: 'http://example.org](https://ieeexplore.ieee.org/abstract/document/9676334'
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
-# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-# url_dataset: '#'
-# url_poster: '#'
-# url_project: ''
-# url_slides: ''
-# url_source: '#'
-# url_video: '#'
+# url_pdf:
+# url_code: 'https://github.com/elakiya04/machine-learning-model-analysis-using-breast-cancer-datatset'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  filename: output(2).png
   focal_point: ""
   preview_only: false
 
