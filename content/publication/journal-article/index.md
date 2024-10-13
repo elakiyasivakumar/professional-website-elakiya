@@ -1,12 +1,12 @@
 ---
-title: "An example journal article"
+title: "Poster: Episodic Recall in Autonomous Agents"
 authors:
 - admin
-- Anjana Anand
+- Kavitha Anand
 
 author_notes:
-- "Equal Contribution"
-- "Equal Contribution"
+- "First Author"
+- "Second Author"
 date: "2015-09-01T00:00:00Z"
 doi: ""
 
