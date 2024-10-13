@@ -33,10 +33,13 @@ links:
 
 image:
   filename: output(2).png
-  preview_only: true
-projects:
-- internal-project
+  preview_only: false
+
 slides: 
   filename: ML Paper Presentation (1).pptx
+projects:
+- internal-project
+
+
 ---
 
