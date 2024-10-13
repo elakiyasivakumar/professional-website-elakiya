@@ -5,7 +5,7 @@ authors:
   - Anjana Anand
   - Sanchin Sarate
 date: "2021-12-11T00:00:00Z"
-doi: ""
+doi: "(https://ieeexplore.ieee.org/abstract/document/9676334"
 
 
 # Publication type.
@@ -19,8 +19,6 @@ publication_short: "SMART Conference - IEEE"
 
 abstract: Breast cancer is one of the most common causes of death worldwide among women, with good survival rates if detected early. In our work, we compared supervised, semi- supervised and unsupervised learning on the biomedical dataset, Wisconsin Breast Cancer Dataset, to establish the model with the best performance and hence apply for computer aided diagnosis. The metrics used for the same includes performance of the network as well as the ease of implementation, As a result, we hope to close the gap between technology innovation and its implementation in healthcare
 
-# Summary. An optional shortened abstract.
-# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - AI in healthcare
@@ -30,21 +28,12 @@ featured: true
 
 links:
 - name: Full Article Link
-  url: 'http://example.org](https://ieeexplore.ieee.org/abstract/document/9676334'
-# url_pdf: 
-# url_code: 'https://github.com/elakiya04/machine-learning-model-analysis-using-breast-cancer-datatset'
+  url: '(https://ieeexplore.ieee.org/abstract/document/9676334'
+  url_code: 'https://github.com/elakiya04/machine-learning-model-analysis-using-breast-cancer-datatset'
 
-#Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   filename: output(2).png
   preview_only: true
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
 - internal-project
 slides: 
