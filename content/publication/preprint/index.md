@@ -31,7 +31,7 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
+- name: Full Article Link
   url: 'http://example.org](https://ieeexplore.ieee.org/abstract/document/9676334'
 # url_pdf:
 # url_code: 'https://github.com/elakiya04/machine-learning-model-analysis-using-breast-cancer-datatset'
