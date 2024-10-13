@@ -25,14 +25,12 @@ publication_short: ""
 
 abstract: Breast cancer is one of the most common causes of death worldwide among women, with good survival rates if detected early. In our work, we compared supervised, semi- supervised and unsupervised learning on the biomedical dataset, Wisconsin Breast Cancer Dataset, to establish the model with the best performance and hence apply for computer aided diagnosis. The metrics used for the same includes performance of the network as well as the ease of implementation, As a result, we hope to close the gap between technology innovation and its implementation in healthcare
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - AI in healthcare
   - Computer Assisted Diagnostics
   - Point of care Diagnostics
-featured: false
+featured: true
 
 # links:
 # - name: ""
@@ -68,12 +66,4 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
