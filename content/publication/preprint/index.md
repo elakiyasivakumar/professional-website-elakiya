@@ -41,7 +41,7 @@ links:
 image:
   filename: output(2).png
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
