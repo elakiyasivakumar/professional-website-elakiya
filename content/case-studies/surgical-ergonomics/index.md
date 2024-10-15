@@ -20,7 +20,11 @@ However the current support for surgeons only includes “breaks” (Mayo clinic
 
 We spoke to 30 surgical residents at Columbia Presbyterian and some more Ergonomic experts from all over the world to understand the problem. Surgeons need a metric to understand what their body goes through during a procedure. 
 
+![InSim Surgical](InSim Surgical_BD.png) 
+
 We created an AI driven real-time video analysis tool that “watches” surgeons while they perform the surgery and gives them “visual” feedback during or after the surgery (because they are busy!) 
+
+
 
 Our model was able to reach better compliance than existing methods in a self-reported survey by surgeons. They found it more “usable” and easy to follow during the surgery
 
