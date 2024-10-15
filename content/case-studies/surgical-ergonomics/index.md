@@ -24,7 +24,7 @@ We spoke to 30 surgical residents at Columbia Presbyterian and some more Ergonom
 
 We created an AI driven real-time video analysis tool that “watches” surgeons while they perform the surgery and gives them “visual” feedback during or after the surgery (because they are busy!) 
 
-
+![InSim Surgical](InSim Surgical_BD (1).png) 
 
 Our model was able to reach better compliance than existing methods in a self-reported survey by surgeons. They found it more “usable” and easy to follow during the surgery
 
@@ -32,7 +32,7 @@ I led the stakeholder interviews for the team and defaulted into product design 
 
 ## Key takeaways: 
 
-- The surgical population is a unique user population to design for. They are busy, they have too much paper work, they simply cannot “learn” more and prioritizw e.
+- The surgical population is a unique user population to design for. They are busy, they have too much paper work, they simply cannot “learn” more and prioritize.
 - surgeon’s mindset: instruments are for patient outcomes and not for physician comfort - which means anything we design, like a operating table that can adjust its height or a new light etc may have a harder time getting into the OR.
 - We wanted to give the surgeons the power - we wanted to show them what they go through in a quantifiable manner and they do what they think is necessary to maintain ergonomics, this could be “learning” and “practicing” with the right posture or this could be doing counteractive stretches after surgeries. We prioritize visual feedback!
 
