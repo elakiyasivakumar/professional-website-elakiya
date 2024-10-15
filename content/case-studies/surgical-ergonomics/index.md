@@ -10,6 +10,9 @@ tags:
   - Physician Burnout
 image:
   filename: Pitch Deck.png
+attachments:
+  - filename: InSim-Surgical_BD.pptx
+    description: Full InSim Surgical Presentation
 ---
 
 Surgeons develop musculoskeletal issues from straining long hours in awkward positions while operating on patients. This can cost hospitals an estimated $15M in loss each year (based on our estimations). 
