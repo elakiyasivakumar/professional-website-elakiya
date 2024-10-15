@@ -20,9 +20,9 @@ However the current support for surgeons only includes “breaks” (Mayo clinic
 
 We spoke to 30 surgical residents at Columbia Presbyterian and some more Ergonomic experts from all over the world to understand the problem. Surgeons need a metric to understand what their body goes through during a procedure. 
 
-So we created an AI driven real-time video analysis tool that “watches” surgeons while they perform the surgery and gives them “visual” feedback during or after the surgery (because they are busy!) 
+We created an AI driven real-time video analysis tool that “watches” surgeons while they perform the surgery and gives them “visual” feedback during or after the surgery (because they are busy!) 
 
-our model was able to reach better compliance than existing methods in a self-reported survey by surgeons. They found it more “usable” and easy to follow during the surgery
+Our model was able to reach better compliance than existing methods in a self-reported survey by surgeons. They found it more “usable” and easy to follow during the surgery
 
 I led the stakeholder interviews for the team and defaulted into product design and distribution strategy simply because I knew the population I was designing for. 
 
