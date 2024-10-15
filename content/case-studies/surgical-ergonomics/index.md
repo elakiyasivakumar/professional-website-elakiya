@@ -32,37 +32,10 @@ I led the stakeholder interviews for the team and defaulted into product design 
 
 ## In the Market: 
 ![InSim Surgical](is-market.png)
+![InSim Surgical](comp.png)
+![InSim Surgical](value-prop.png)
 
 
---- 
-
-### Defining Success Metrics: "Usability"
-
-How easy do surgeons find it to use solution? How much set up is required? Ease of remembering and adopting solution in OR.  
-
-![InSim Surgical](is-bar1.png)
-Phase 0 results (based only on a voluntary workshop with InSim Surgical AI Software pre-scaling)
-
-###Defining Success Metrics: Future Phases
-In the upcoming phases using a mix of quantitative and qualitative data is vital. This also forms the basis for the Pre-Market Approval (PMA) submissions. 
-
-Quantitative:
-- Frequency of use
-- Improvement in Posture over Set period (for an X population) 
-- Improvement in clinical outcomes
-
-Qualitative:
-- Ease of Use
-- Perceived Effectiveness
-
-###Iterative Device Improvement: to Phase 1
-
-Using principles of Human Centered Design to understand “what do the users want” in the device. 
-Notifications were a key concern for surgeons and residents  due to the amount of “distractions” and “disruptions” in their schedule.
-
-![InSim Surgical](is-bar2.png)
-How to Get Our attention: By surgeons and residents of Presbyterian, Phase 0
-(based only on a voluntary workshop with InSim Surgical AI Software pre-scaling)
 
 ## Go to Market Strategy 
 
@@ -87,6 +60,39 @@ Clinical Bodies:
 - ACS (American College of Surgeons) 
 - ACGME (American Council for Graduate Medical Education)  
 Aim to make ‘good posture’ a training metric for surgeons.
+
+--- 
+
+### Defining Success Metrics: "Usability"
+
+How easy do surgeons find it to use solution? How much set up is required? Ease of remembering and adopting solution in OR.  
+
+![InSim Surgical](is-bar1.png)
+Phase 0 results (based only on a voluntary workshop with InSim Surgical AI Software pre-scaling)
+
+###Defining Success Metrics: Future Phases
+In the upcoming phases using a mix of quantitative and qualitative data is vital. This also forms the basis for the Pre-Market Approval (PMA) submissions. 
+
+Quantitative:
+- Frequency of use
+- Improvement in Posture over Set period (for an X population) 
+- Improvement in clinical outcomes
+
+Qualitative:
+- Ease of Use
+- Perceived Effectiveness
+
+
+### Iterative Device Improvement: to Phase 1
+
+Using principles of Human Centered Design to understand “what do the users want” in the device. 
+Notifications were a key concern for surgeons and residents  due to the amount of “distractions” and “disruptions” in their schedule.
+
+![InSim Surgical](is-bar2.png)
+How to Get Our attention: By surgeons and residents of Presbyterian, Phase 0
+(based only on a voluntary workshop with InSim Surgical AI Software pre-scaling)
+
+
 
 
 
