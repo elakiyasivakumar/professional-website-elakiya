@@ -20,36 +20,78 @@ However the current support for surgeons only includes “breaks” (Mayo clinic
 
 We spoke to 30 surgical residents at Columbia Presbyterian and some more Ergonomic experts from all over the world to understand the problem. Surgeons need a metric to understand what their body goes through during a procedure. 
 
-![InSim Surgical](InSim-Surgical_BD.png) 
+![InSim Surgical](IS-unmet-need.png) 
 
 We created an AI driven real-time video analysis tool that “watches” surgeons while they perform the surgery and gives them “visual” feedback during or after the surgery (because they are busy!) 
 
-![InSim Surgical](InSim-Surgical_BD-(1).png) 
+![InSim Surgical](is-solution.png) 
 
 Our model was able to reach better compliance than existing methods in a self-reported survey by surgeons. They found it more “usable” and easy to follow during the surgery
 
 I led the stakeholder interviews for the team and defaulted into product design and distribution strategy simply because I knew the population I was designing for. 
 
-## Key takeaways: 
+## In the Market: 
+![InSim Surgical](is-market.png)
+
+
+--- 
+
+### Defining Success Metrics: "Usability"
+
+How easy do surgeons find it to use solution? How much set up is required? Ease of remembering and adopting solution in OR.  
+
+![InSim Surgical](is-bar1.png)
+Phase 0 results (based only on a voluntary workshop with InSim Surgical AI Software pre-scaling)
+
+###Defining Success Metrics: Future Phases
+In the upcoming phases using a mix of quantitative and qualitative data is vital. This also forms the basis for the Pre-Market Approval (PMA) submissions. 
+
+Quantitative:
+- Frequency of use
+- Improvement in Posture over Set period (for an X population) 
+- Improvement in clinical outcomes
+
+Qualitative:
+- Ease of Use
+- Perceived Effectiveness
+
+###Iterative Device Improvement: to Phase 1
+
+Using principles of Human Centered Design to understand “what do the users want” in the device. 
+Notifications were a key concern for surgeons and residents  due to the amount of “distractions” and “disruptions” in their schedule.
+
+![InSim Surgical](is-bar2.png)
+How to Get Our attention: By surgeons and residents of Presbyterian, Phase 0
+(based only on a voluntary workshop with InSim Surgical AI Software pre-scaling)
+
+## Go to Market Strategy 
+
+### Regulatory 
+
+#### FDA 
+FDA Designation as DeNovo Class 2 Medical Device
+
+#### HIPAA 
+Data Security and Patient Privacy Regulations need to be adhered 
+
+#### Partenrships
+
+Industry and Commercial: 
+- Med-tech companies  focused in surgical ergonomics like Intuitive, J&J
+- Workplace insurance companies for hospitals 
+- Surgical Ergonomists 
+Aim to make InSim the top measuring tool for good ergonomics with devices and postures
+
+Clinical Bodies: 
+- Mayo Clinic is a pioneer in the US for surgical ergonomics 
+- ACS (American College of Surgeons) 
+- ACGME (American Council for Graduate Medical Education)  
+Aim to make ‘good posture’ a training metric for surgeons.
+
+
+
+### Key takeaways: 
 
 - The surgical population is a unique user population to design for. They are busy, they have too much paper work, they simply cannot “learn” more and prioritize.
 - surgeon’s mindset: instruments are for patient outcomes and not for physician comfort - which means anything we design, like a operating table that can adjust its height or a new light etc may have a harder time getting into the OR.
 - We wanted to give the surgeons the power - we wanted to show them what they go through in a quantifiable manner and they do what they think is necessary to maintain ergonomics, this could be “learning” and “practicing” with the right posture or this could be doing counteractive stretches after surgeries. We prioritize visual feedback!
-
-## In the Market: 
-- [Sword Health](https://swordhealth.com/)
-- [Tumeke](https://www.tumeke.io/ad-landing-pages/ergonomics-assessment?utm_term=ergonomic%20assessment%20software&utm_campaign=Relevant+keywords&utm_source=adwords&utm_medium=ppc&hsa_acc=3873812980&hsa_cam=14634553617&hsa_grp=125490594645&hsa_ad=548803288951&hsa_src=g&hsa_tgt=kwd-338185960977&hsa_kw=ergonomic%20assessment%20software&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=Cj0KCQjwsJO4BhDoARIsADDv4vBANv8JDApSlmR4YIj5ZuUfoezSppUS23AEUg_cFtFaD-b154R_4qQaAgOdEALw_wcB)
-
-### Download the Pitch Deck [here](https://docs.google.com/presentation/d/1t7tQuXXiGr-3Ydg997crOZb40n4zBHP9JjTNfLiEO54/edit?usp=sharing)!
---- 
-
-## Validation: 
-
-We created and scaled our solution and I ran a survey of user-friendliness of the product to be iterative-ly useful to customes. Here are some key findings: 
-
-![InSim Surgical](is-bar1.png)
-![InSim Surgical](is-bar2.png)
-
-
-
-
