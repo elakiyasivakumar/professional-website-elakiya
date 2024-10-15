@@ -12,7 +12,6 @@ image:
   filename: Pitch Deck.png
 ---
 
-# Hospitals Lose $15M every year because surgeons develop extreme musculoskeletal pain. 
 Surgeons develop musculoskeletal issues from straining long hours in awkward positions while operating on patients. This can cost hospitals an estimated $15M in loss each year (based on our estimations). 
 
 Surgeons have the highest rate of work-related Musculoskeletal Disorders:
@@ -20,6 +19,7 @@ Surgeons have the highest rate of work-related Musculoskeletal Disorders:
       - >76% of surgeons report not having any ergonomic training
       - >$15M hospital expenditure for MSD-Sick leave & sabbaticals
       - 1 in 5 surgeons plan to retire early as result of physical toll
+
   
 ## Creating the solution...
 
@@ -101,8 +101,6 @@ Notifications were a key concern for surgeons and residents  due to the amount o
 ![InSim Surgical](is-bar2.png)
 How to Get Our attention: By surgeons and residents of Presbyterian, Phase 0
 (based only on a voluntary workshop with InSim Surgical AI Software pre-scaling)
-
-
 
 
 
