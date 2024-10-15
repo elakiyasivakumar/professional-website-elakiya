@@ -14,8 +14,13 @@ image:
 
 # Hospitals Lose $15M every year because surgeons develop extreme musculoskeletal pain. 
 Surgeons develop musculoskeletal issues from straining long hours in awkward positions while operating on patients. This can cost hospitals an estimated $15M in loss each year (based on our estimations). 
-However the current support for surgeons only includes “breaks” (Mayo clinic) and “PT help”. Moreover most surgical environments and instruments are not designed for women or peope of color leading to a severe lack of workplace ergonomics. 
 
+Surgeons have the highest rate of work-related Musculoskeletal Disorders:
+      - 8 in 10 surgeons experience chronic back/neck pain
+      - >76% of surgeons report not having any ergonomic training
+      - >$15M hospital expenditure for MSD-Sick leave & sabbaticals
+      - 1 in 5 surgeons plan to retire early as result of physical toll
+  
 ## Creating the solution...
 
 We spoke to 30 surgical residents at Columbia Presbyterian and some more Ergonomic experts from all over the world to understand the problem. Surgeons need a metric to understand what their body goes through during a procedure. 
@@ -33,6 +38,11 @@ I led the stakeholder interviews for the team and defaulted into product design 
 ## In the Market: 
 ![InSim Surgical](is-market.png)
 ![InSim Surgical](comp.png)
+
+the current support for surgeons only includes “breaks” (Mayo clinic) and “PT help”. Moreover most surgical environments and instruments are not designed for women or peope of color leading to a severe lack of workplace ergonomics. 
+
+Solutions like TuMeke are not caliberated for surgical procedures and are not able to offer excercise recommendations to surgeons. 
+
 ![InSim Surgical](value-prop.png)
 
 
