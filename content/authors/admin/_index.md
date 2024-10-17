@@ -24,8 +24,7 @@ role: Biomedical Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Primary Aldosteronism Foundation
-    url: https://www.primaryaldosteronism.org/
+  - name: Product @ Stealth Biotech Start-up
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
