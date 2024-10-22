@@ -9,7 +9,7 @@ tags:
   - Medical Images
   - Markdown
 image:
-  filename: results-aug-1.png
+  filename: epoch-op.png
 ---
 ### Aim
 
