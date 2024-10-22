@@ -9,7 +9,7 @@ tags:
   - Medical Images
   - Markdown
 image:
-  filename: epoch-op.png
+  filename: GAN-arch.png
 ---
 ### Aim
 
@@ -22,6 +22,21 @@ We decided to then focus on augmentation techniques for medical image datasets!
 
 ![Problems in Dataset](mot1.png)
 ![Problems in Dataset](mot2.png)
+
+
+assumptions:
+  - item: Hardware
+    price: $167
+  - item: Software
+    price: $833
+  - item: Maintenance
+    price: $300
+  - item: Energy
+    price: $43
+  - item: Physical Space
+    price: $200
+  - item: Annotation Cost
+    price: $35
 
 ### Dataset - VinDr SpineXR Dataset
 
@@ -50,6 +65,13 @@ We implemented the following augmentation techniques using the PIL package:
 - Shearing - 30 radians
 
 ![Results of Individual Manual Augmentation](results-aug-1.png)
+
+### Image Quality Metrics 
+
+It's important to define tangible metrics to understand the quality of the data generated so we used popular image quality metrics in Biomedical Engineering for this. 
+
+![Image-Metrics](Quality-Metrics.png)
+![Image-Metrics](metrics-op.png)
 
 ### Genrative Adversial Network Based augmentation 
 
@@ -81,7 +103,14 @@ Advantages:
 - Improved training stability
 - Better quality image generation
 - Learns a hierarchy of representations from object parts to scenes
+Disadvantages:
+- DCGAN model is unable to generalize to the data because the data consists of both skull-neck and lumbar spine sections. Since the image representation of both are different, the model learns and unlearns the pixel distribution.
+- This occurs due to instability during training- the generator and discriminator minimize or maintain their performance based on the error provided by the other. This can cause the network to stop learning before the optimal point.
+- Furthemore hyperparameters such as batch normalization, dropout, have to be defined after much trial and error.
+- The maximum image size created is of size 64, 64-  GPU memory issues for bigger images during training.
+- It takes the model 2-3 hrs to train for 200 epochs- and hence is time consuming. 
 
+![DCGAN Output](DCGAN-op.png)
 
 #### WGAN 
 
@@ -96,14 +125,32 @@ Advantages:
 - Reduces mode collapse
 - Less sensitive to architecture choices and hyperparameters
 
-![WGAN ALgorithm](wgan-alg.png)
+![WGAN Algorithm](wgan-alg.png)
 ![WGAN Performance](wgan-perf.png)
-### Image Quality Metrics 
+![WGAN Output](epoch-op.png)
 
-It's important to define tangible metrics to understand the quality of the data generated so we used popular image quality metrics in Biomedical Engineering for this. 
 
-![Image-Metrics](Quality-Metrics.png)
-![Image-Metrics](metrics-op.png)
 
+### Analyzing Test Networks performance with WGAN output 
+
+![Network Performance with WGAN Output](op-vn-gan.png)
+
+### Hybrid Augmentation method 
+
+We propose a novel hybrid augmentation technique that involves combination of "best performing" basic augmentation techniques followed by WGAN 
+
+![Case-1 Data Split](case-1.png)
+![Case-1 Data Augmentation](case-1-tbl.png)
+![Case-1 VGG16 Output](vgg16.png)
+![Case-1Inception Net Output](nception.png)
+
+
+### Conclusion from the Study 
+
+We observe that the best performing basic augmentation techniques combined give better accuracies than combining the worst performing strategies (for Case- 1: best performing techniques combined resulted in an accuracy of ~88% and ~83% for VGG-16 and InceptionNet in comparison to worst performing techniques combined which resulted in ~81% and ~80% accuracy for VGG-16 and InceptionNet respectively). 
+
+After analysing individual augmentation strategies for two more spine abnormalities subsets, the best performing basic augmentation techniques for the VinDr spine dataset are Rotation 45, Rotation 270, and Shearing.
+
+The proposed hybrid augmentation was employed by combining WGAN image generation and the three best performing basic augmentation strategies. The hybrid augmentation strategy allowed for more dataset volume available for deep learning classification, and resulted in accuracies of 98-99% across all three spine abnormalities cases for VGG-16 and InceptionNet classifiers. The hybrid technique performed better than basic augmentation alone or WGAN image generation alone.
 
 
