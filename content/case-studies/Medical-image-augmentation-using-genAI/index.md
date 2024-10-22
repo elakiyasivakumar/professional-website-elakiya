@@ -1,33 +1,33 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
-date: 2023-10-26
+title: Data Augmentation methods using Generative-AI
 authors:
   - admin
+  - Dr K Nirmala, SSN Biomedical Engineering
+  - Anjana Anand
 tags:
-  - Second Brain
+  - Gen AI
+  - Medical Images
   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
+### Aim
 
-Create a personal knowledge base and share your knowledge with your peers.
+Deep Learning methods require large datasets to overcome overfitting and class generalization problems.
+Well-annotated and sufficient datasets are expensive economically and computationally to produce and store - problem is especially aggravated in the biomedical field. 
 
-Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.
+Our main aim to do this project came from trying to apply segmentation techniques to medical image datasets but realizing we simply did not have enough data to train the models with! 
 
-Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.
+We decided to then focus on augmentation techniques for medical image datasets! 
 
-Use it as your second brain, either publicly sharing your knowledge with your peers via your website, or via a private GitHub repository and password-protected site just for yourself.
 
-## Mindmaps
+### Dataset - VinDr SpineXR Dataset
 
-Hugo Blox supports a Markdown extension for mindmaps.
+- Large-scale annotated medical image dataset for spinal lesion detection and classification from radiographs. 
+- Contains 10,466 spine X-ray images from 5,000 studies, each of which is manually annotated with 13 types of abnormalities by an experienced radiologist.
+Lesion types: (1) Ankylosis, (2) Disc space narrowing, (3) Enthesophytes, (4) Foraminal stenosis, (5) Fracture, (6) Osteophytes, (7) Sclerotic lesion, (8) Spondylolysthesis, (9) Subchondral sclerosis, (10) Surgical implant, (11) Vertebral collapse, (12) Foreign body, and (13) Other lesions.
 
-With this open format, can even edit your mindmaps in other popular tools such as Obsidian.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+We mainly selected the dataset because of the significant class variance and class imbalance. There is about 13 different types of diseases and all the disease-types have only 100-200 images each.
 
 <div class="highlight">
 <pre class="chroma">
