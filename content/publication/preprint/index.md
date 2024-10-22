@@ -40,14 +40,7 @@ links:
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   filename: output(2).png
-  focal_point: ""
-  preview_only: true
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects:
 - internal-project
 slides: 
