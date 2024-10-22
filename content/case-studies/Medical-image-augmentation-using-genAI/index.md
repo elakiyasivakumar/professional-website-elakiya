@@ -51,11 +51,59 @@ We implemented the following augmentation techniques using the PIL package:
 
 ![Results of Individual Manual Augmentation](results-aug-1.png)
 
+### Genrative Adversial Network Based augmentation 
 
+Generative adverserial networks consist of 2 AI networks that compete against each other to minimize loss. 
+
+The generative network "looks" at real world examples and generate images which is then passed to the adverserial network which then classifies the image as "fake" or "real". 
+
+The learning is then back-propgated through both networks and the generative network creates better "fake" images. 
+
+![GAN-Example](GAN-arch.png)
+
+We study 2 types of GANs in this project: 
+
+- Deep Convolution GAN (DCGAN)
+- Wasserstein GAN (WGAN)
+
+The difference is in the network architechture and the loss function. 
+
+#### DC GAN 
+
+DCGAN is an extension of the original GAN architecture that incorporates convolutional layers for improved image generation.
+Key features:
+- Uses convolutional and convolutional-transpose layers in the discriminator and generator
+- Employs batch normalization in both networks
+- Uses ReLU activation in the generator and LeakyReLU in the discriminator
+- Eliminates fully connected layers for deeper architectures
+- Uses strided convolutions instead of pooling layers
+Advantages:
+- Improved training stability
+- Better quality image generation
+- Learns a hierarchy of representations from object parts to scenes
+
+
+#### WGAN 
+
+WGAN is an alternative to traditional GANs that uses the Wasserstein distance (also known as Earth Mover's distance) as its loss function.
+Key features:
+- Replaces the discriminator with a critic that estimates the Wasserstein distance
+- Uses weight clipping to enforce Lipschitz continuity
+- Employs a different loss function based on the Wasserstein distance
+Advantages:
+- More stable training process
+- Meaningful loss metric that correlates with image quality
+- Reduces mode collapse
+- Less sensitive to architecture choices and hyperparameters
+
+![WGAN ALgorithm](wgan-alg.png)
+![WGAN Performance](wgan-perf.png)
 ### Image Quality Metrics 
 
 It's important to define tangible metrics to understand the quality of the data generated so we used popular image quality metrics in Biomedical Engineering for this. 
 
 ![Image-Metrics](Quality-Metrics.png)
 ![Image-Metrics](metrics-op.png)
+
+
 
