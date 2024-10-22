@@ -20,6 +20,8 @@ Our main aim to do this project came from trying to apply segmentation technique
 
 We decided to then focus on augmentation techniques for medical image datasets! 
 
+![Problems in Dataset](mot1.png)
+![Problems in Dataset](mot2.png)
 
 ### Dataset - VinDr SpineXR Dataset
 
@@ -29,63 +31,31 @@ Lesion types: (1) Ankylosis, (2) Disc space narrowing, (3) Enthesophytes, (4) Fo
 
 We mainly selected the dataset because of the significant class variance and class imbalance. There is about 13 different types of diseases and all the disease-types have only 100-200 images each.
 
+### Test Networks 
 
-</code>
-</pre>
-</div>
+We selected popular deep learning networks used in image classification to study their performance with different augmentation techniques. 
+      - VGG16: VGG16 is a convolutional neural network architecture developed by researchers at the Visual Geometry Group (VGG) of the University of Oxford. It is renowned for its simplicity and effectiveness in image classification and object recognition tasks. 
+      - Inception Net: also known as GoogLeNet, is a groundbreaking convolutional neural network architecture introduced by researchers at Google in 2014. It represented a significant advancement in deep learning for computer vision tasks, particularly in image classification and object recognition.
 
-renders as
 
-```markmap
-- Mindmaps
-  - Links
-    - [Hugo Blox Docs](https://docs.hugoblox.com/)
-    - [Discord Community](https://discord.gg/z8wNYzb)
-    - [GitHub](https://github.com/HugoBlox/hugo-blox-builder)
-  - Features
-    - Markdown formatting
-    - **inline** ~~text~~ *styles*
-    - multiline
-      text
-    - `inline code`
-    -
-      ```js
-      console.log('hello');
-      console.log('code block');
-      ```
-    - Math: $x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
-```
+### Basic Augmentation Techniques 
 
-## Highlighting
+We implemented the following augmentation techniques using the PIL package: 
+- 45° Rotation
+- 270° Rotation
+- Horizontal Flip
+- Vertical Flip
+- Cropping - ((2, 5, 500, 1000))
+- Zooming (crop - resize (500,500))
+- Shearing - 30 radians
 
-<mark>Highlight</mark> important text with `mark`:
+![Results of Individual Manual Augmentation](results-aug-1.png)
 
-```html
-<mark>Highlighted text</mark>
-```
 
-## Callouts
+### Image Quality Metrics 
 
-Use [callouts](https://docs.hugoblox.com/reference/markdown/#callouts) (aka _asides_, _hints_, or _alerts_) to draw attention to notes, tips, and warnings.
+It's important to define tangible metrics to understand the quality of the data generated so we used popular image quality metrics in Biomedical Engineering for this. 
 
-By wrapping a paragraph in `{{%/* callout note */%}} ... {{%/* /callout */%}}`, it will render as an aside.
+![Image-Metrics](Quality-Metrics.png)
+![Image-Metrics](metrics-op.png)
 
-```markdown
-{{%/* callout note */%}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{%/* /callout */%}}
-```
-
-renders as
-
-{{% callout note %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-Or use the `warning` callout type so your readers don't miss critical details:
-
-{{% callout warning %}}
-A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
-{{% /callout %}}
-
-## Did you find this page helpful? Consider sharing it 🙌
