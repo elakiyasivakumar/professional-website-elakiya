@@ -24,19 +24,7 @@ We decided to then focus on augmentation techniques for medical image datasets!
 ![Problems in Dataset](mot2.png)
 
 
-assumptions:
-  - item: Hardware
-    price: $167
-  - item: Software
-    price: $833
-  - item: Maintenance
-    price: $300
-  - item: Energy
-    price: $43
-  - item: Physical Space
-    price: $200
-  - item: Annotation Cost
-    price: $35 
+
 
 ### Dataset - VinDr SpineXR Dataset
 
