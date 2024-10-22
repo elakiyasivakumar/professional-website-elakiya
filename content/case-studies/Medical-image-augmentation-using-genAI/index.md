@@ -9,7 +9,7 @@ tags:
   - Medical Images
   - Markdown
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  filename: results-aug-1.png
 ---
 ### Aim
 
