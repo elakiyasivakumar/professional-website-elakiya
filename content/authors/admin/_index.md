@@ -69,7 +69,7 @@ education:
      - Leadership: Theater Club President, BME Newsletter Editor, SSN MUN Executive Board Director
 
 work:
-  - position: Associate, Research and Development
+  - position: Product @ Stealth Health Start-up 
     company_name: Primary Aldosteronism Foundation
     company_url: ''
     company_logo: ''
@@ -77,7 +77,10 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Leading research and stakeholder development for PA to understand current    affairs, track research and derive so-whats for the foundation and take next stepst
+      - Led design and development for an innovative wound healing product from concept to early stage by creating product specification based on user needs and facilitating cross-functional collaboration to reduce time to market. 
+      - Conducted regulatory and risk assessments for early-stage medical devices, ensuring compliance with ISO 13485 and FDA Class II requirements to streamline product approval processes and mitigate potential delays.
+
+
   - position: Associate Consultant
     company_name: New Markets Advisors
     company_url: ''
