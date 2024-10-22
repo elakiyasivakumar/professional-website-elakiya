@@ -23,9 +23,6 @@ main:
     weight: 40
     params: 
       color: accent1
-  - name: Projects
-    url: projects/
-    weight: 30
   - name: Case-Studies
     url: /case-studies
     weight: 13
