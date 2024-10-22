@@ -199,7 +199,7 @@ languages:
     percent: 100
 
 
-recognition:
+awards:
 
   - name: Enterpreneurship Award
     date: '2023-08-01'
