@@ -36,7 +36,7 @@ assumptions:
   - item: Physical Space
     price: $200
   - item: Annotation Cost
-    price: $35
+    price: $35 
 
 ### Dataset - VinDr SpineXR Dataset
 
