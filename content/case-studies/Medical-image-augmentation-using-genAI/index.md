@@ -1,5 +1,8 @@
 ---
 title: Data Augmentation methods using Generative-AI
+summary: Making more well annotated datasets!
+date: 2022-05-24
+math: true
 authors:
   - admin
   - Dr K Nirmala, SSN Biomedical Engineering
