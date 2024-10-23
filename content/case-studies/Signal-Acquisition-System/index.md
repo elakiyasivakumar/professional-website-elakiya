@@ -12,6 +12,7 @@ tags:
   - Biomedical Engineering
   - Markdown
 image:
+  filename: cover.png
  
 ---
 
@@ -20,8 +21,9 @@ image:
 To Design a Signal Acquisition System with AD620 
 
 1. Designing Filter systems 
+![Designing a Mu band aquisition Circuit](design1.png)
+![Designing a Mu band aquisition Circuit](design2.png)
 
-lalala
 ### 10-20 Electrode System 
 
 The 10-20 system is an internationally recognized method for placing electrodes on the scalp during EEG exams, sleep studies, and research. It ensures standardized and reproducible results by aligning electrode placement with specific brain regions.
@@ -31,7 +33,7 @@ Key Features:
 - Anatomical Landmarks: Measurements are taken from points like the nasion to inion (front-back) and preauricular points (right-left).
 - Electrode Labels: Letters represent brain regions (e.g., Fp for frontal pole, F for frontal), while numbers indicate distance from the midline (odd for left hemisphere, even for right)
 
-
+![Ten Twenty Electrode System](ten-twen.png)
 
 ### Circuit Components
 
@@ -72,7 +74,6 @@ Occurrence: Mu suppression is observed during:
 - Execution of motor actions
 - Observation of actions performed by others
 - Motor imagery
-
 
 Interpretation: 
 - Decreased mu power is thought to reflect increased cortical activation in sensorimotor areas.
