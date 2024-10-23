@@ -97,3 +97,23 @@ Step 3: Use a sing 4 Layer CNN 1D to perform Binomial classification of the data
 Step 4: Analyze results 
 
 Output: checkpoint of trained signal, performance of the model 
+
+Kaggle Notebook for sample 1D CNN: [https://www.kaggle.com/elakiyasivakumar/cnn1d](https://www.kaggle.com/elakiyasivakumar/cnn1d)
+
+I am not able to publish code/dataset here due to the sensitive nature of the project! 
+
+### IoT Application using AWS 
+
+Using AWS IoT for data storage, data processing and understanding analytics. 
+1. Remote data access: IoT enables real-time transmission of EEG data to healthcare professionals, allowing for remote monitoring and analysis. This is particularly valuable for continuous monitoring of patients outside of clinical settings.
+2. Cloud-based data storage: IoT facilitates secure storage of large volumes of EEG data in the cloud. This allows for long-term data retention, easy access from multiple locations, and improved data backup and recovery.
+3. Advanced analytics:Cloud-based storage enables the application of advanced analytics tools, including machine learning algorithms, to large datasets. This can help in identifying patterns, predicting outcomes, and personalizing treatment plans.
+5. Connected medical device:The IoT-enabled EEG system becomes part of a larger ecosystem of connected medical devices, potentially integrating with other health monitoring systems for a more comprehensive patient   overview.
+6. Improved patient care:
+Real-time monitoring and data-driven insights can lead to faster interventions, more accurate diagnoses, and personalized treatment strategies, ultimately improving patient outcomes.
+7. Enhanced research capabilities: The ability to collect and analyze large volumes of EEG data from diverse populations can accelerate neurological research and the development of new treatments.
+
+
+
+
+
